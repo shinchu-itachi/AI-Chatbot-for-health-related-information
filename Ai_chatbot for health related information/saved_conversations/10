@@ -1,0 +1,109 @@
+user : my name is ram
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in mumbai
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : HI
+bot : hi. How are you feeling today?
+user : i have cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : i have severe headache too
+bot : - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+user : yes
+user : my name is ram
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in kanpr
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : Hi
+bot : hi. How are you feeling today?
+user : i have a cut
+bot : - You should take a spoon full of benadryl after your meal.
+user : i have a cut in my hand
+bot : - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+user : my name is niteesh
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in jamshedpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : Hi
+bot : hi. How are you feeling today?
+user : i am feeling dizzy
+bot : This might be because you are tired, you should take some rest.
+user : i need concentration power
+bot : Get some coffee or eat some chocolates.
+user : ok
+bot : Namaste! How are you feeling today?
+user : symptoms of covid-19
+bot : Cough, Fever or chills, Shortness of breath or difficulty breathing, Muscle or body aches, Sore throat, New loss of taste or smell, Diarrhea, Headache, Fatigue, Nausea or vomiting, Congestion or runny nose
+user : my hand is aching
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : i hurt it
+bot : hi. How are you feeling today?
+user : yes i got hurt
+bot : - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+user : no
+bot : -What is your age
+user : my name is satish
+bot : Hello! your name has been stored. What is your age?
+user : 21
+bot : Coronaviruses are a type of virus. There are many different kinds, and some cause disease. A newly identified coronavirus, SARS-CoV-2, has caused a worldwide pandemic of respiratory illness, called COVID-19.
+user : my name is satish
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in kanpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : hi. How are you feeling today?
+user : my nose is choked
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : yes i have cold
+bot : - You should take a sudafed tablet after your meal.
+user : ok, i will take the sudafed tablet
+bot : - let me know if you are feeling better after having sudafed tablet.
+user : i took the tablet
+bot : - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
+user : no, i am still not feeling better
+bot : - Ok, its not just a normal fever, you should consult a doctor.
+user : can u book an appointment for me
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Satish 24/11/2022 ramesh
+bot : I am baby of 2 months.
+user : is doctor available
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : i want to talk to a doctor
+bot : - you shall be called once the doctor is available. Do you want to book an appointment?
+user : yes 
+bot : okay. your age has been stored. Which city do you live in?
+user : can you book an appointment 
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Patient Name: Niteesh Kumar Date: 24/11/2022 Doctor: 
+bot : - appointment details saved. you shall be contacted shortly.
+user : thanks
+bot : - happy to help!
+user : my name is niteesh
+bot : Hello! your name has been stored. What is your age?
+user : 23
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : my name is niteesh
+bot : Hello! your name has been stored. What is your age?
+user : 23
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in jamshedpur
+bot : okay location stored. Welcome to medical portal. Say Hi!

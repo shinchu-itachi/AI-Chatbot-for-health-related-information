@@ -1,0 +1,80 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is niteesh kumar
+bot : Hello! your name has been stored. What is your age?
+user : 23
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : Jamshedpur
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : my name is niteesh kumar
+bot : Hello! your name has been stored. What is your age?
+user : my age is 23
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in jamshedpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : hi. How are you feeling today?
+user : i feel sick
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : i have a headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : cluster headache
+bot : - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+user : yes 
+bot : okay. your age has been stored. Which city do you live in?
+user : my name is niteesh kumar
+bot : Hello! your name has been stored. What is your age?
+user : 23
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in jamshedpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : hi. How are you feeling today?
+user : i feel sick
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : i have a headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : cluster migrane
+bot : - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : my name is anuj
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in kanpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : Hi
+bot : hi. How are you feeling today?
+user : i have cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : i have severe cough
+bot : - ok. would you like to see a doctor?
+user: yes
+bot : ok. Please enter time.
+user : ok. 1 PM in afternoon
+bot : ok. 
+bot : Your appointment with Doctor Suresh of Sterling Hospital have been scheduled today at 1 PM Afternood.
+user : ok
+bot : bye. Take care 
+user : byeuser : my name is anuj
+bot : Hello! your name has been stored. What is your age?
+user : 22
+bot : -are you online?
+user : yes
+bot : okay. your age has been stored. Which city do you live in?
+user : i live in kanpur
+bot : okay location stored. Welcome to medical portal. Say Hi!
+user : Hi
+bot : hi. How are you feeling today?
+user : i have cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : i have severe cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : i have severe cough
+bot : - You should take a spoon full of benadryl after your meal.
